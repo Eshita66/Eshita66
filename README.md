@@ -1,11 +1,12 @@
 ## Hi there 👋 I'm Mst Eshita Khatun
 
-🎓 Ph.D. student in Computer Science | System Security • Privacy • AI/LLMs
+🎓 Ph.D. student in Computer Science at Louisiana State University
 
 ---
 
 ### 🧠 Research Interests
 - Mobile/Android security & privacy
+- MAchine Learning, Artificial Intelligence, LLMs
 - Static analysis, reverse engineering, and program analysis
 - LLM-assisted code understanding and privacy-risk assessment
 - Data-driven security measurement (large-scale app datasets)
