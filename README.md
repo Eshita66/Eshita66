@@ -1,16 +1,38 @@
-## Hi there 👋
+## Hi there 👋 I'm Mst Eshita Khatun
 
-<!--
-**Eshita66/Eshita66** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Ph.D. student in Computer Science | System Security • Privacy • AI/LLMs
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🧠 Research Interests
+- Mobile/Android security & privacy
+- Static analysis, reverse engineering, and program analysis
+- LLM-assisted code understanding and privacy-risk assessment
+- Data-driven security measurement (large-scale app datasets)
+
+---
+
+### 🛠️ Tools & Technologies
+- **Python**, **PySpark**, **Java**, **Smali**
+- Androguard, APK analysis, call graph/dataflow analysis
+- Machine Learning (scikit-learn, XGBoost/LightGBM), data visualization
+- Research writing (LaTeX/Overleaf), reproducible experiments
+
+---
+
+### 📌 Featured Repositories
+- 🔗 **AndroByte**: https://github.com/Eshita66/AndroByte  
+
+---
+
+### 📫 How to reach me
+- Email: eshitasimu@gmail.com  
+- LinkedIn: https://www.linkedin.com/in/mst-eshita-khatun-34037aaa/
+- Google Scholar: https://scholar.google.com/citations?user=6uB1DLAAAAAJ&hl=en
+
+---
+
+### ⚡ Fun facts
+🌿 I enjoy gardening and 🍳 cooking — they keep me refreshed and creative!
+
+
