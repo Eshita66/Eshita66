@@ -26,10 +26,12 @@
 
 ---
 
+
 ### 📫 How to reach me
-- Email: eshitasimu@gmail.com  
-- LinkedIn: https://www.linkedin.com/in/mst-eshita-khatun-34037aaa/
-- Google Scholar: https://scholar.google.com/citations?user=6uB1DLAAAAAJ&hl=en
+- Email: [mkhatu3@lsu.edu](mailto:mkhatu3@lsu.edu), [eshitasimu@gmail.com](mailto:eshitasimu@gmail.com)
+- LinkedIn: [Mst Eshita Khatun](https://www.linkedin.com/in/mst-eshita-khatun-34037aaa/)
+- Google Scholar: [Google Scholar Profile](https://scholar.google.com/citations?user=6uB1DLAAAAAJ&hl=en)
+
 
 ---
 
